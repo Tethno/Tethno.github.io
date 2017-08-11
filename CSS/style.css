@@ -9,5 +9,9 @@
 
 }
 #walrus {
-  transition: 2s; 
+  transition: 2s;
+}
+h1 {
+  background: yellow;
+  border: solid;
 }
